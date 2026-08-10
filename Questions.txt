@@ -2,25 +2,17 @@
   {
     "Matiere": "Culture Générale",
     "Enonce": "Quelle est la capitale du Burkina Faso ?",
-    "Options": [
-      "Bobo-Dioulasso",
-      "Ouagadougou",
-      "Koudougou",
-      "Banfora"
-    ],
+    "ImageUrl": "",
+    "Options": ["Bobo-Dioulasso", "Ouagadougou", "Koudougou", "Banfora"],
     "BonneReponse": "Ouagadougou",
-    "Explication": "Ouagadougou est la capitale et la plus grande ville du Burkina Faso."
+    "Explication": "Ouagadougou est la capitale du Burkina Faso."
   },
   {
-    "Matiere": "Histoire",
-    "Enonce": "En quelle année le Burkina Faso a-t-il obtenu son indépendance ?",
-    "Options": [
-      "1958",
-      "1960",
-      "1984",
-      "1972"
-    ],
-    "BonneReponse": "1960",
-    "Explication": "La Haute-Volta a obtenu son indépendance le 5 août 1960."
+    "Matiere": "Tests Psychotechniques",
+    "Enonce": "Quelle figure complète la suite logique ci-dessous ?",
+    "ImageUrl": "https://raw.githubusercontent.com/ton-compte/ton-repo/main/images/suite_logique_1.png",
+    "Options": ["Figure A", "Figure B", "Figure C", "Figure D"],
+    "BonneReponse": "Figure B",
+    "Explication": "Chaque figure pivote de 90° dans le sens des aiguilles d'une montre."
   }
 ]
