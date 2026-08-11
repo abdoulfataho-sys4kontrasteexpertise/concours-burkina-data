@@ -1,0 +1,17 @@
+[
+  {
+    "Categorie": "Dates Clés",
+    "Recto": "5 Août 1960",
+    "Verso": "Proclamation de l'indépendance de la République de Haute-Volta."
+  },
+  {
+    "Categorie": "Sigles",
+    "Recto": "ALT",
+    "Verso": "Assemblée Législative de Transition."
+  },
+  {
+    "Categorie": "Droit",
+    "Recto": "Article 1er de la Constitution",
+    "Verso": "Tous les Burkinabè naissent libres et égaux en droits et en devoirs."
+  }
+]
