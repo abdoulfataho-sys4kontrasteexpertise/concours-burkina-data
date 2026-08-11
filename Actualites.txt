@@ -1,0 +1,18 @@
+[
+  {
+    "Titre": "Ouverture des dépôts de dossiers - Session 2026",
+    "Contenu": "Les inscriptions en ligne pour les concours directs de la fonction publique débutent ce jour sur la plateforme e-concours.",
+    "DatePublication": "10/08/2026",
+    "DateEvenement": "2026-08-15",
+    "Categorie": "Dépôt dossiers",
+    "ProgrammerNotification": true
+  },
+  {
+    "Titre": "Calendrier des Compositions Révélé",
+    "Contenu": "Les épreuves écrites se dérouleront dans les chefs-lieux de région à partir du mois prochain.",
+    "DatePublication": "11/08/2026",
+    "DateEvenement": "2026-09-01",
+    "Categorie": "Composition",
+    "ProgrammerNotification": true
+  }
+]
